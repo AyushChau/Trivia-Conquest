@@ -26,7 +26,13 @@
     </form>
     <div id="Remaining">
         <span>Questions Remaining: </span>
-        <span id="Remaining_num">800</span>
+        {% if count %}
+            <span id="Remaining_num">{{ count }}</span>
+        {% else %}
+            <tr>
+                <span id="Remaining_num">UNKNOWN!!!!</span>
+            </tr>
+        {% endif %}
     </div>
 
     <script>
