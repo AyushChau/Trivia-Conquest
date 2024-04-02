@@ -1,0 +1,327 @@
+1. Question: What is the capital city of Australia?
+   Answer: Canberra
+
+2. Question: Which river is the longest in the world?
+   Answer: Nile River
+
+3. Question: Which continent is home to the Sahara Desert?
+   Answer: Africa
+
+4. Question: What is the tallest mountain in North America?
+   Answer: Denali (formerly known as Mount McKinley)
+
+5. Question: What is the largest ocean on Earth?
+   Answer: Pacific Ocean
+
+6. Question: What is the capital of Japan?
+   Answer: Tokyo
+
+7. Question: Which country is known as the Land of the Rising Sun?
+   Answer: Japan
+
+8. Question: Which European city is famous for its canals and gondolas?
+   Answer: Venice, Italy
+
+9. Question: Which river flows through Paris?
+   Answer: Seine River
+
+10. Question: What is the smallest country in the world?
+    Answer: Vatican City
+
+13. Question: Which country is known as the Emerald Isle?
+    Answer: Ireland
+
+14. Question: Which African country is known as the Rainbow Nation?
+    Answer: South Africa
+
+15. Question: Which city is the capital of France?
+    Answer: Paris
+
+16. Question: Which country is famous for its tulips and windmills?
+    Answer: Netherlands
+
+17. Question: What is the capital city of Brazil?
+    Answer: Brasília
+
+18. Question: Which sea is bordered by Europe to the north and Africa to the south?
+    Answer: Mediterranean Sea
+
+19. Question: What is the largest country in South America?
+    Answer: Brazil
+
+20. Question: Which river flows through London?
+    Answer: River Thames
+
+24. Question: Which country is famous for its fjords?
+    Answer: Norway
+
+27. Question: What is the tallest mountain in the world?
+    Answer: Mount Everest
+
+28. Question: What is the capital city of Canada?
+    Answer: Ottawa
+
+29. Question: Which river is known as the "Mother of Rivers" in India?
+    Answer: Ganges River
+
+33. Question: Which African country is known as the Cradle of Humankind?
+    Answer: South Africa
+
+35. Question: Which ocean is the warmest?
+    Answer: Indian Ocean
+
+36. Question: Which river is considered the lifeline of Egypt?
+    Answer: Nile River
+
+37. Question: Which country is famous for the Great Barrier Reef?
+    Answer: Australia
+
+39. Question: Which country is known as the Land Down Under?
+    Answer: Australia
+
+43. Question: What is the capital city of Russia?
+    Answer: Moscow
+
+44. Question: Which desert is located in the southwestern United States and northern Mexico?
+    Answer: Sonoran Desert
+
+45. Question: What is the capital city of Spain?
+    Answer: Madrid
+
+47. Question: What is the longest river in Europe?
+    Answer: Volga River
+
+48. Question: Which African country is famous for its pyramids?
+    Answer: Egypt
+
+49. Question: What is the capital city of South Africa?
+    Answer: Pretoria (one of three capital cities, alongside Bloemfontein and Cape Town)
+
+50. Question: Which mountain range stretches along the western coast of South America?
+    Answer: Andes Mountains
+
+51. Question: What is the largest city in the United States by population?
+    Answer: New York City
+
+52. Question: Which country is known as the Land of Fire?
+    Answer: Azerbaijan
+
+56. Question: Which country is known as the Land of Smiles?
+    Answer: Thailand
+
+57. Question: What is the largest desert in Asia?
+    Answer: Gobi Desert
+
+58. Question: Which mountain range forms the border between Europe and Asia?
+    Answer: Ural Mountains
+
+59. Question: What is the capital city of South Korea?
+    Answer: Seoul
+
+61. Question: What is the largest country in the world by land area?
+    Answer: Russia
+
+63. Question: What is the capital city of Turkey?
+    Answer: Ankara
+
+64. Question: Which country is known as the Land of the Midnight Sun?
+    Answer: Norway
+
+65. Question: What is the longest river in Asia?
+    Answer: Yangtze River
+
+67. Question: What is the capital city of Greece?
+    Answer: Athens
+
+68. Question: Which sea is bordered by Europe to the north and Asia to the south?
+    Answer: Black Sea
+
+69. Question: What is the largest island country in the world?
+    Answer: Indonesia
+
+71. Question: What is the capital city of Saudi Arabia?
+    Answer: Riyadh
+
+73. Question: Which country is known as the Land of a Thousand Hills?
+    Answer: Rwanda
+
+74. Question: What is the capital city of Peru?
+    Answer: Lima
+
+77. Question: Which city is known as the City of Love?
+    Answer: Paris, France
+
+78. Question: What is the capital city of Egypt?
+    Answer: Cairo
+
+80. Question: What is the longest river in South America?
+    Answer: Amazon River
+
+81. Question: Which sea is bordered by Italy, Croatia, Montenegro, and Albania?
+    Answer: Adriatic Sea
+
+86. Question: How many capitals does South Africa have?
+    Answer: 3
+
+87. Question: Which country is known as the Land of the Thunder Dragon?
+    Answer: Bhutan
+
+88. Question: What is the largest island in the Mediterranean Sea?
+    Answer: Sicily
+
+89. Question: Which river is known as the "cradle of Chinese civilization"?
+    Answer: Yellow River (Huang He)
+
+90. Question: What is the capital city of Colombia?
+    Answer: Bogotá
+
+92. Question: What is the highest waterfall in the world?
+    Answer: Angel Falls (located in Venezuela)
+
+93. Question: Which ocean is known as the "Ring of Fire" due to its volcanic activity?
+    Answer: Pacific Ocean
+
+94. Question: What is the capital city of Ireland?
+    Answer: Dublin
+
+96. Question: What is the largest country in Africa by land area?
+    Answer: Algeria
+
+98. Question: What is the capital city of Iran?
+    Answer: Tehran
+
+99. Question: Which country is known as the Land of a Thousand Islands?
+    Answer: Indonesia
+
+100. Question: What is the smallest ocean in the world?
+    Answer: Arctic Ocean
+
+3. Question: What is the highest mountain peak in Africa?
+   Answer: Mount Kilimanjaro
+
+5. Question: What is the capital city of Argentina?
+   Answer: Buenos Aires
+
+6. Question: Which desert is located in Australia?
+   Answer: Simpson Desert
+
+7. Question: What is the largest city in Brazil by population?
+   Answer: São Paulo
+
+8. Question: Which sea is the saltiest body of water in the world?
+   Answer: Dead Sea
+
+9. Question: What is the capital city of Thailand?
+   Answer: Bangkok
+
+10. Question: Which country is known as the Land of the Long White Cloud?
+    Answer: New Zealand
+
+12. Question: Which river forms part of the border between the United States and Canada?
+    Answer: St. Lawrence River
+
+13. Question: What is the capital city of Nigeria?
+    Answer: Abuja
+
+14. Question: Which mountain range is known as the "Roof of the World"?
+    Answer: Himalayas
+
+15. Question: What is the largest lake in North America by surface area?
+    Answer: Lake Superior
+
+16. Question: Which country is known as the Land of Fire and Ice?
+    Answer: Iceland
+
+17. Question: What is the capital city of Portugal?
+    Answer: Lisbon
+
+19. Question: What is the largest city in Australia by population?
+    Answer: Sydney
+
+21. Question: What is the highest mountain peak in South America?
+    Answer: Mount Aconcagua
+
+22. Question: Which river is the longest in Australia?
+    Answer: Murray River
+
+23. Question: What is the capital city of Pakistan?
+    Answer: Islamabad
+
+25. Question: What is the largest island in Indonesia?
+    Answer: Borneo
+
+27. Question: What is the capital city of Vietnam?
+    Answer: Hanoi
+
+29. Question: What is the deepest ocean in the world?
+    Answer: Pacific Ocean
+
+30. Question: Which river is known as the "River of Sorrows"?
+    Answer: Huang He (Yellow River)
+
+33. Question: What is the largest city in Canada by population?
+    Answer: Toronto
+
+34. Question: Which strait separates Africa from Europe?
+    Answer: Strait of Gibraltar
+
+35. Question: What is the capital city of Kenya?
+    Answer: Nairobi
+
+36. Question: Which mountain range is known as the "Backbone of Europe"?
+    Answer: Alps
+
+37. Question: What is the largest city in China by population?
+    Answer: Shanghai
+
+45. Question: What is the largest desert in the world after Antarctica?
+    Answer: Sahara Desert
+
+48. Question: What is the currency of the United Kingdom?
+    Answer: Pound Sterling (GBP)
+
+52. Question: Which river runs through the Grand Canyon?
+    Answer: Colorado River
+
+54. Question: What is the capital city of China?
+    Answer: Beijing
+
+55. Question: Which continent is the least populated?
+    Answer: Antarctica
+
+59. Question: What is the largest island in the world?
+    Answer: Greenland
+
+61. Question: Which city is considered the fashion capital of the world?
+    Answer: Paris
+
+63. Question: What is the capital city of Italy?
+    Answer: Rome
+
+67. Question: What is the largest lake in Africa?
+    Answer: Lake Victoria
+
+69. Question: What is the tallest building in the world?
+    Answer: Burj Khalifa (located in Dubai, United Arab Emirates)
+
+70. Question: Which country is known as the Land of a Thousand Lakes?
+    Answer: Finland
+
+71. Question: Which river forms part of the border between the United States and Mexico?
+    Answer: Rio Grande
+
+    Question: What country spans 11 time zones?
+    Answer: Russia
+
+    Question: Which American state is the smallest my land mass?
+    Answer: Rhode Island
+
+    Question: What Canadian province's southern border lies adjacent to both Idaho and Montana?
+    Answer: BC
+
+    Question: In what European capital city would you find the landmark known as the Spanish Steps?
+    Answer: Rome
+
+    Question: How many area codes does Alberta have?
+    Answer: 5
+

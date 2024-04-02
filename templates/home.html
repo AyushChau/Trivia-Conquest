@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Trivia Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+
+</head>
+<body>
+    <div id ="Trivia_Page"><h2>TRIVIA CONQUEST!</h2></div>
+    <form action="/questions" method="get">
+        <div id = "Generator Options">
+            <select id="category_dropdown" name="category">
+                <option value="Random">Random</option>
+                <option value="Nature">Nature</option>
+                <option value="Religion & Myths">Religion & Mythology</option>
+                <option value="History">History</option>
+                <option value="World">World & Geography</option>
+                <option value="Numbers">Numbers</option>
+                <option value="Sports">Sports</option>
+            </select>
+            <input type="range" id="num_of_questions" name="num_of_questions" min="1" max="7" value="5">
+            <span id="sliderValue">5 Q's</span>
+            <button type="submit" id="Find">Find Questions!</button>
+        </div>
+    </form>
+    <div id="Remaining">
+        <span>Questions Remaining: </span>
+        <span id="Remaining_num">800</span>
+    </div>
+
+    <script>
+        // Get the slider element
+        var slider = document.getElementById("num_of_questions");
+
+        // Get the element where the slider value will be displayed
+        var sliderValueElement = document.getElementById("sliderValue");
+
+        // Update the slider value display when the slider is changed
+        slider.addEventListener("input", function() {
+            // Update the value display
+            sliderValueElement.textContent = slider.value + " Q's";
+        });
+    </script>
+</body>
+</html>

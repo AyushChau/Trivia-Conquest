@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Trivia Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/questions.css') }}">
+
+</head>
+<body>
+    <div id = "Questions">
+        <table>
+            <tr>
+                <th>QUESTIONS</th>
+                <th>ANSWERS</th>
+            </tr>
+            <tr>
+                <td>What does HTML stand for?</td>
+                <td id="Answer">Hyper Text Markup Language</td>
+            </tr>
+            <tr>
+                <td>What does HTML stand for?</td>
+                <td id="Answer">Hyper Text Markup Language</td>
+            </tr>
+            <tr>
+                <td>What does HTML stand for?</td>
+                <td id="Answer">Hyper Text Markup Language</td>
+            </tr>
+            <tr>
+                <td>What does HTML stand for?</td>
+                <td id="Answer">Hyper Text Markup Language</td>
+            </tr>
+            <tr>
+                <td>What does HTML stand for?</td>
+                <td id="Answer">Hyper Text Markup Language</td>
+            </tr>
+        </table>        
+    </div>
+    <a href="/">
+        <div id="Return">
+            <button>← Go Back</button>
+        </div>
+    </a>
+   
+
+    <script>
+        // Get the slider element
+        var slider = document.getElementById("num_of_questions");
+
+        // Get the element where the slider value will be displayed
+        var sliderValueElement = document.getElementById("sliderValue");
+
+        // Update the slider value display when the slider is changed
+        slider.addEventListener("input", function() {
+            // Update the value display
+            sliderValueElement.textContent = slider.value + " Q's";
+        });
+    </script>
+</body>
+</html>

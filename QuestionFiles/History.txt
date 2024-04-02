@@ -1,0 +1,232 @@
+1. What year did Christopher Columbus first reach the Americas?
+   Answer: 1492
+2. Who was the first President of the United States?
+   Answer: George Washington
+3. In which war did the Battle of Gettysburg take place?
+   Answer: American Civil War
+4. Who was the famous leader of the Soviet Union during World War II?
+   Answer: Joseph Stalin
+5. Which ancient civilization built the pyramids?
+   Answer: Ancient Egyptians
+6. Who wrote the famous play "Romeo and Juliet"?
+   Answer: William Shakespeare
+7. Which city is known as the birthplace of democracy?
+   Answer: Athens, Greece
+8. What year did World War I begin?
+   Answer: 1914
+10. Who was the longest-reigning monarch in British history?
+    Answer: Queen Victoria
+11. Which Roman emperor famously declared himself a god?
+    Answer: Nero
+12. Who painted the Mona Lisa?
+    Answer: Leonardo da Vinci
+13. What event marked the beginning of the French Revolution?
+    Answer: The Storming of the Bastille
+16. Who was the first woman to fly solo across the Atlantic Ocean?
+    Answer: Amelia Earhart
+17. What was the name of the first satellite launched into space by the Soviet Union in 1957?
+    Answer: Sputnik 1
+18. Who was the first African-American to serve as President of the United States?
+    Answer: Barack Obama
+20. What was the name of the ship that carried the Pilgrims to America in 1620?
+    Answer: Mayflower
+21. Who was the first man to walk on the moon?
+    Answer: Neil Armstrong
+22. What year did the Berlin Wall fall?
+    Answer: 1989
+23. Which famous scientist developed the theory of relativity?
+    Answer: Albert Einstein
+25. What event triggered the start of World War II?
+    Answer: The invasion of Poland by Germany
+27. What was the name of the last ruling dynasty of China?
+    Answer: Qing Dynasty
+32. Who was the first woman to win a Nobel Prize?
+    Answer: Marie Curie
+33. What was the name of the ship that Charles Darwin sailed on during his voyage to the Galapagos Islands?
+    Answer: HMS Beagle
+34. Who was the first Emperor of Rome?
+    Answer: Augustus Caesar
+35. What event marked the end of the medieval period in Europe?
+    Answer: The fall of Constantinople
+37. What was the name of the treaty that ended World War I?
+    Answer: Treaty of Versailles
+40. What was the name of the first human to orbit the Earth?
+    Answer: Yuri Gagarin
+42. Which city was the center of the Renaissance?
+    Answer: Florence, Italy
+44. Who was the first female Prime Minister of India?
+    Answer: Indira Gandhi
+47. Which ancient civilization built the city of Machu Picchu?
+    Answer: Incas
+49. Who was the author of "The Communist Manifesto"?
+    Answer: Karl Marx
+51. Who was the first Emperor of China?
+    Answer: Qin Shi Huang
+52. Which country was the first to grant women the right to vote?
+    Answer: New Zealand
+56. What year did the Titanic sink?
+    Answer: 1912
+62. What was the name of the first successful powered airplane?
+    Answer: Wright Flyer
+67. Who was the first woman to win a Nobel Prize in Physics?
+    Answer: Marie Curie
+71. What year did World War II end?
+    Answer: 1945
+72. Who was the first President of the United States to resign from office?
+    Answer: Richard Nixon
+77. Who was the first European explorer to reach India by sea?
+    Answer: Vasco da Gama
+81. Who was the famous nurse known as the founder of modern nursing?
+    Answer: Florence Nightingale
+85. Who was the first woman to win a Nobel Prize in Literature?
+    Answer: Selma Lagerlöf
+86. What was the name of the first successful permanent English colony in North America?
+    Answer: Jamestown
+87. Who was the first woman to serve as Prime Minister of the United Kingdom?
+    Answer: Margaret Thatcher
+88. What was the name of the American Civil Rights activist who refused to give up her seat on a bus?
+    Answer: Rosa Parks
+89. Who was the first female astronaut in space?
+    Answer: Valentina Tereshkova
+90. What year did the Great Depression begin?
+    Answer: 1929
+91. Who was the first woman to win a Nobel Prize in Medicine?
+    Answer: Gerty Cori
+92. What was the name of the policy of racial segregation in South Africa?
+    Answer: Apartheid
+94. What was the name of the Russian mystic who influenced the Russian royal family and was later executed?
+    Answer: Grigori Rasputin
+95. Who was the first woman to win a Nobel Prize in Economics?
+    Answer: Elinor Ostrom
+96. What was the name of the first successful human heart transplant patient?
+    Answer: Louis Washkansky
+97. Who was the first woman to serve as Prime Minister of Canada?
+    Answer: Kim Campbell
+102. What year did the Korean War begin?
+     Answer: 1950
+106. What year did the Soviet Union collapse?
+     Answer: 1991
+110. What was the name of the first satellite launched into space by the United States?
+     Answer: Explorer 1
+119. Who was the first woman to win a Nobel Prize in Physiology?
+     Answer: Gerty Cori
+131. Who was the first woman to win a Nobel Prize in Chemistry?
+    Answer: Marie Curie
+142. What year did the United States enter World War II?
+    Answer: 1941
+156. What year did the United Nations officially come into existence?
+    Answer: 1945
+
+    What year was the Declaration of Independence signed?
+    Answer: 1776
+
+    What country sent Christopher Columbus to explore the New World?
+    Answer: Spain
+
+    What is considered the largest empire in history?
+    Answer: The British Empire
+    
+    What event is commonly believed to have sparked World War I?
+    Answer: Assasination of Franz Ferdinand
+
+    Where did Albert Einstein live before moving to the United States?
+    Answer: Germany
+
+    Who was the first ruler of the Mongol Empire?
+    Answer: Genghis Khan
+
+    What was the capital city of the Inca Empire?
+    Answer: Cusco
+
+    What countries fought in the Hundred Years’ War?
+    Answer: Britain & France
+
+    What did istanbul used to be called?
+    Answer: Constantinople
+
+    What was the name of the ancient trade route that connected the East with the West?
+    Answer: Silk Road
+
+    In which year did Hitler commit suicide?
+    Answer: 1945
+
+    Which organization was awarded the Nobel Peace Prize in 1917?
+    Answer: The Red Cross
+
+    How many U.S. presidents have been assassinated?
+    Answer: 4
+
+    What beetle did the ancient Egyptians worship?
+    Answer: The scarab (Dung Beetle)
+
+    How did Alexander the Great solve the puzzle of the Gordion knot?
+    Answer: He cut it
+
+    Who wrote the Odyssey?
+    Answer: Homer
+
+    What is the name of the first human civilization?
+    Answer: Mesopotamia
+
+    How many times has the Mona Lisa been stolen?
+    Answer: Once
+
+    The Incan Empire is located prominently in which modern-day country?
+    Answer: Peru
+
+    Who invented the telephone?
+    Answer: Alexander Graham Bell
+
+    In which country was the largest known T-Rex skeleton found?
+    Answer: Canada
+
+    Where was Adolf Hitler born?
+    Answer: Austria
+
+    What is the name of the disease that ravaged and killed a third of Europe’s population in the 14th century?
+    Answer: The Bubonic Plague
+
+    In which city and state was John F. Kennedy assassinated?
+    Answer: Dallas, Texas
+
+    Who sculpted the statue of David?
+    Answer: Michelangelo
+
+    The Cuban Revolution led to the rise of what dictator?
+    Answer: Fidel Castro
+
+    Which series of wars saw European Christians invading the middle east to take the Holy Land?
+    Answer: The Crusades
+
+    The Protestant Reformation was started by whom?
+    Answer: Martin Luther
+
+    Who invented Penicillin?
+    Answer: Alexander Fleming
+
+    What was the previous name for New York?
+    Answer: New Amsterdam
+
+    What modern-day city was known as Bombay?
+    Answer: Mumbai
+
+    Which city served as the capital of the Ottoman Empire?
+    Answer: Constantinople
+
+    The Statue of Liberty was a gift from which country?
+    Answer: France
+
+    What country won the first World Cup?
+    Answer: Uruguay
+
+    Who was the first U.S. President to appear on television?
+    Answer: Franklin Roosevelt
+
+
+
+
+
+
+
+
+
